@@ -8,26 +8,30 @@ Here is the revised list with a more logical order:
 
     > **unrelated fact:** This problem is the motivation for the project
 
-3.  **Task Overload and Prioritization**: Struggling with having too many tasks and not knowing which ones to prioritize.
+3.  **Updating Goals**: Challenges in updating higher level goals without loosing previous state.
 
-4.  **Estimating Progress Metrics**: Difficulty in accurately guessing metrics for tracking personal progress.
+4.  **keeping Track of Wasted Time**: Challenges in keeping tracking of total wasted time not following the plan. If i knew i am wasting time then I would not have wasted in the first place, so this manual way of tracking is not feasible
 
-5.  **Real-Time Progress Updates**: Lack of real-time progress updates, as current analysis is only feasible on a weekly basis due to time constraints.
+5.  **Task Overload and Prioritization**: Struggling with having too many tasks and not knowing which ones to prioritize.
 
-6.  **Visualizing Progress**: Lack of a visual representation of progress over time, which can aid motivation and strategy adjustments.
+6.  **Estimating Progress Metrics**: Difficulty in accurately guessing metrics for tracking personal progress.
 
-7.  **Notifications and Reminders**: Forgetting tasks or missing deadlines due to lack of timely notifications and reminders.
+7.  **Real-Time Progress Updates**: Lack of real-time progress updates, as current analysis is only feasible on a weekly basis due to time constraints.
 
-8.  **Forgetting Plans**: Forgetting planned activities or tasks at home when heading to work.
+8.  **Visualizing Progress**: Lack of a visual representation of progress over time, which can aid motivation and strategy adjustments.
 
-9.  **Missed Alarms**: Not receiving alarms when the allocated time for a task has passed.
+9.  **Notifications and Reminders**: Forgetting tasks or missing deadlines due to lack of timely notifications and reminders.
 
-10. **Income and Expense Tracking**: Forgetting to record income and expenses in real-time due to the unavailability of a notebook.
+10. **Forgetting Plans**: Forgetting planned activities or tasks at home when heading to work.
 
-11. **Historical Data Analysis**: Need to analyze past data to identify patterns and improve future planning.
+11. **Missed Alarms**: Not receiving alarms when the allocated time for a task has passed.
 
-12. **Calendar Integration**: Integrating with existing calendar systems to ensure all events and tasks are synchronized and easily manageable in one place.
+12. **Income and Expense Tracking**: Forgetting to record income and expenses in real-time due to the unavailability of a notebook.
 
-13. **Accessibility and Cross-Device Sync**: Ensuring the tool is accessible on various devices (phones, tablets, computers) and syncs across them for efficient schedule management.
+13. **Historical Data Analysis**: Need to analyze past data to identify patterns and improve future planning.
+
+14. **Calendar Integration**: Integrating with existing calendar systems to ensure all events and tasks are synchronized and easily manageable in one place.
+
+15. **Accessibility and Cross-Device Sync**: Ensuring the tool is accessible on various devices (phones, tablets, computers) and syncs across them for efficient schedule management.
 
 > **Note:** Some of these problems are solved by multiple other platforms, but I did not find a platform that can do all or integrate with others to achieve this.
