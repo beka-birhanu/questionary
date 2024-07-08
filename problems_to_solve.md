@@ -1,7 +1,5 @@
 I am currently working on a project to solve my own problems, which I hope will also solve other people problems too. Now I am on problem identification phase, I have some problems i have listed but I was wondering if you could help me find other people problem. The project is basically trying to make life more organized, some kind of schedule hub. Here are some problems I listed
 
-Here is the revised list with a more logical order:
-
 1.  **Goal Alignment**: Challenges in keeping yearly goals in mind when setting semester goals, semester goals when setting weekly goals, and weekly goals when creating daily schedules.
 
 2.  **Privacy in Shared Goals**: Difficulty in sharing and assessing progress on selected goals with friends while keeping personal goals private, leading to demotivation.
