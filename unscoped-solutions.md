@@ -1,7 +1,5 @@
 # These are List of Unscoped General Solutions Corresponding to the Problems Listed
 
----
-
 ## Goal Alignment
 
 1. Provide a hierarchy of goals.
