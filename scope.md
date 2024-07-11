@@ -16,7 +16,7 @@
 
 1. **Removing Goals**: Goals can be deleted, but this action will also delete all sub-goals and schedules. To avoid this, goals can only be closed.
 2. **Impact on Progress**: When goals are closed, their previous progress will still affect the overall progress.
-3. **Fixed Time Allocation**: Time allocated for a goal cannot be extended. Users can close the goal and extend a new goal from it to maintain historical records.
+3. **Fixed Time Allocation**: Time allocated for a goal or hierarchy cannot be extended. Users can close the goal and extend a new goal from it to maintain historical records.
 4. **Sub-Goals Continuation**: When a higher hierarchy goal is closed, all sub-goals and schedules will continue to exist until explicitly closed.
 5. **New Goals from Closed Goals**: Extending a new goal from a closed one will reflect all progress from the previous goal.
 6. **Rearranging Daily Schedules**: Daily schedules can be rearranged unless the allocated time has passed.
@@ -26,6 +26,10 @@
 
 1. **Tracking Wasted Time**: Wasted time is collected from unchecked tasks in the daily schedule.
 2. **Active Hours Metrics**: Active hours are measured based on the value of accomplished tasks.
+
+## Metrics
+
+1. **Metrics availability**: Metrics are only available for schedules.
 
 ## Calendar Integration
 
