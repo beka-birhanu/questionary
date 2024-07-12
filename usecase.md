@@ -251,3 +251,48 @@
 ### Alternative Flow
 
 - **User Declines the Request**: System cancels the deletion and navigates the User back.
+
+## Use Case 14: Plan a Daily Schedule
+
+### Preconditions
+
+- User is authenticated.
+- An ongoing weekly goals exists.
+
+### Main Flow
+
+1. User chooses any day of from the current weekly goals window.
+2. User chooses the option to add schedule.
+3. System previews short-term goals and daily events from the calendar.
+4. System prompts the user to select one of the weekly goals to link with this goal.
+5. User selects the weekly goal to link.
+6. System prompts for goal title, description, time allocation, and scale factor.
+7. Time allocation must not conflict from other schedule.
+8. User provides the information and submits the form.
+9. System adds the schedule.
+10. System provides information about total working hours and free hours.
+
+### Alternative Flow:
+
+- **Time allocation conflict**:The system displays an error and prompts the User to retry.
+
+## Use Case 14: update a Daily Schedule
+
+### Preconditions
+
+- User is authenticated.
+- An ongoing daily schedule exists.
+
+### Main Flow
+
+1. User chooses the option to edit schedule.
+2. System previews short-term goals and daily events from the calendar.
+3. System provides editable fields and delete option with each task.
+4. Time allocation must not conflict from other schedule.
+5. User provides the information and submits the form.
+6. System adds the schedule.
+7. System provides information about total working hours and free hours.
+
+### Alternative Flow:
+
+- **Time allocation conflict**:The system displays an error and prompts the User to retry.
